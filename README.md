@@ -6,6 +6,7 @@
 - Riding my bike in the foothills-- if someone is going slowly and carefully, that might be me
 - How to read-- if you see a teal kindle, that could be mine
 - Chatting-- if someone is talking your ear off, it could be me
+  
 ##### I am still learning about:
 - HTML
 - CSS
